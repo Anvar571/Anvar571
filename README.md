@@ -3,4 +3,4 @@
 
 # My skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css, bootstrap, scss, nodejs, express, postgressql, mongodb, ejs, pug)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
