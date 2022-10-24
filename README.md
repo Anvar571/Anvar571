@@ -3,5 +3,4 @@
 
 # Tech skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-[![](https://visitcount.itsvg.in/api?id=anvar571&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
