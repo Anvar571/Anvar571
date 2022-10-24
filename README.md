@@ -4,6 +4,4 @@
 # Tech skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=anvar571&label=Profile%20Views&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=anvar571&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
