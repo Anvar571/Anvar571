@@ -3,7 +3,7 @@
 </p>
 <h1>Hi I'm Anvar Abdurashidov </h1>
 <h2>I'm 21 years old </h2>
-<p>I mainly do backend programming in nodejs
+<p>I mainly do Backend programming and Frontend in nodejs
 I am interested in learning new technologies and I am interested in solving problems
 
 I am currently working on complex projects and learning devops
